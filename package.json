@@ -4,8 +4,8 @@
   "description": "shravan api",
   "main": "application.js",
   "scripts": {
-    "start": "application.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node application.js"
+    
   },
   "repository": {
     "type": "git",

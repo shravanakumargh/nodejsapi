@@ -1,0 +1,22 @@
+{
+  "name": "nodejsapi",
+  "version": "1.0.0",
+  "description": "shravan api",
+  "main": "application.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shravanakumargh/nodejsapi.git"
+  },
+  "author": "shravan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shravanakumargh/nodejsapi/issues"
+  },
+  "homepage": "https://github.com/shravanakumargh/nodejsapi#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
